@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiSendFile</string>
+    <string name="hello_world">WIFI地址</string>
+    <string name="wifi_not_avaliable">wifi不可用</string>
+    <string name="input_on_browser">请在浏览器地址栏中输入：</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="double_click_to_exit">再按一次退出程序</string>
+</resources>
